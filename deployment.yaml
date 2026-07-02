@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: springboot-container
-          image: dhruv3020/action:c1848c91151d858eb4def0391d1e57edabc52144
+          image: dhruv3020/action:a4475650996ed072ce6aa98397ccbf7468572174
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
